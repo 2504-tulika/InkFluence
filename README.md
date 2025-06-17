@@ -29,8 +29,7 @@
 
 | Home Interface | Post Generated | Hashtag Suggestions |
 | -------------- | -------------- | ------------------- |
-| ![Home Interface](https://github.com/user-attachments/assets/bbc3f0cd-a9c6-426f-9d3c-3327a6f8d476) | ![Post Generated](https://github.com/user-attachments/assets/3dc7e5ba-f20a-408e-91b1-2f433d39340f) |
-![Suggested Hashtags](https://github.com/user-attachments/assets/a3872f3a-1ebe-4f8d-a7b3-a71ce208f0e2)|
+|![Home Interface](https://github.com/user-attachments/assets/bbc3f0cd-a9c6-426f-9d3c-3327a6f8d476) |![Post Generated](https://github.com/user-attachments/assets/3dc7e5ba-f20a-408e-91b1-2f433d39340f) |![Suggested Hashtags](https://github.com/user-attachments/assets/a3872f3a-1ebe-4f8d-a7b3-a71ce208f0e2)|
 
 ---
 
