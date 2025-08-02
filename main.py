@@ -44,7 +44,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ----------------- Header --------------------
-st.markdown('<div class="title">💡 LinkedIn Post Generator 💡</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">💡 InkFluence 💡</div>', unsafe_allow_html=True)
 
 st.markdown("#### 📢 Say it better. Say it brilliantly..")
 
