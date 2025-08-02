@@ -1,4 +1,4 @@
-<h1 align="center">💡 InkFlunence </h1>
+<h1 align="center">💡 InkFluence </h1>
 <p align="center">
   Effortlessly craft creative, professional, and personalized LinkedIn posts in seconds.
 </p>
